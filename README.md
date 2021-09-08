@@ -1,3 +1,4 @@
 # Strapi application
 
-A quick description of your strapi application
+API strapi para o projeto game E-commerce, parte integrante do curso React Avançado da Udemy.
+
